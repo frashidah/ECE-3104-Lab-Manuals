@@ -18,6 +18,9 @@ In this course, we have implemented web programming lanaguage and python for bas
 - Python LinkedList
 - Python Hash Table
 - Python Hash Map
+- Python Insertion Sort
+- Python Selection Sort
+- Python Merge Sort
 
 
 
