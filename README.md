@@ -21,6 +21,8 @@ In this course, we have implemented web programming lanaguage and python for bas
 - Python Insertion Sort
 - Python Selection Sort
 - Python Merge Sort
+- Bullble Sort
+- Quick Sort
 
 
 
