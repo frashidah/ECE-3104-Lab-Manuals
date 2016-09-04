@@ -1,4 +1,4 @@
-# ECE 3104 Lab Session II , 2015/2016
+# ECE 3104 Lab SeM I , 2016/2017
 
 All the code in this respository has written for educational purpose only. All the code for lab class lecture of ECE 3104 at Engineering Kulliyyah of Intenrational Islamic University Malaysia. 
 
@@ -13,7 +13,7 @@ In this course, we have implemented web programming lanaguage and python for bas
 - Python Array
 - Python sorting
 - Python Object Oriented 
-- Python Search 
+- Python Search - linear and binary
 - Python Stack 
 - Python LinkedList
 - Python Hash Table
@@ -23,7 +23,8 @@ In this course, we have implemented web programming lanaguage and python for bas
 - Python Merge Sort
 - Bullble Sort
 - Quick Sort
-
+- Graph
+- GUI in Python
 
 
 
